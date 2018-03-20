@@ -26,6 +26,10 @@ rss: rss
 # - username: jekyll2
 #   instance: example.com
 
+plugins:
+  - jekyll-feed
+  - jekyll-admin
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
