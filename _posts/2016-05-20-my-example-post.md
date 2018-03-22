@@ -2,8 +2,6 @@
 title: La NES
 date: 2016-05-20 00:00:00 Z
 layout: post
-
-
 ---
 
 La Nintendo Entertainment System, couramment abrégée en NES, ou simplement appelée Nintendo3,4,5, est une console de jeux vidéo de génération 8 bits fabriquée par l'entreprise japonaise Nintendo et distribuée à partir de 1985 (1987 en Europe). Son équivalent japonais est la Family Computer (ファミリーコンピュータ, Famirī Konpyūta?), ou Famicom (ファミコン, Famikon?), sortie quelques années avant, en 1983.
