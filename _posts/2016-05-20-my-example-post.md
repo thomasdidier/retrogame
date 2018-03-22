@@ -2,8 +2,7 @@
 title: La NES
 date: 2016-05-20 00:00:00 Z
 layout: post
-categories: jekyll La-nes
-permalink: /:categories
+
 
 ---
 
