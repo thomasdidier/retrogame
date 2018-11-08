@@ -1,0 +1,18 @@
+/* Tablet 12" max 1200px */ 
+@media only screen and (max-width: 1200px) {
+} 
+/* Tablet de 768px à 1023px */ 
+@media only screen and (max-width: 1023px) { 
+}
+/* Smartphone de 481px à 767px */ 
+@media only screen and (max-width: 767px) {
+ .logo-interogation{
+ 	display: none;
+ }
+} 
+/* Smartphone de 0 à 480px */ 
+@media only screen and (max-width: 480px) { 
+.logo-interogation-2{
+	display: none;
+}
+}
